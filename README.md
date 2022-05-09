@@ -2,4 +2,3 @@
 - 😄 Pronouns: He/Him
 - 💻 I'm currently learning Rust and Go
 - 🕹 I like to play and speedrun video games
-- 📄 Find me [here on LinkedIn](https://www.linkedin.com/in/tarunbod)
