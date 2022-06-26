@@ -1,4 +1,3 @@
 - 👋 Hi, I'm Tarun Boddupalli [@tarunbod](https://github.com/tarunbod)
 - 😄 Pronouns: He/Him
 - 💻 I'm currently learning Rust and Go
-- 🕹 I like to play and speedrun video games
