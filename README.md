@@ -1,1 +1,1 @@
-👋 Hi, I'm Tarun ([@tarunbod](https://github.com/tarunbod))
+👋 Hi, I'm Tarun Boddupalli ([@tarunbod](https://github.com/tarunbod))
